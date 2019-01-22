@@ -6,7 +6,7 @@
 </head>
 <body>
     <h2>
-        Welcome to Eric Zhai's Summer 2019 Development Intern Challenge Solution
+        My submission for the Summer 2019 Shopify Backend Developer Challenge
     </h2>
     <h3>
         Classes and Methods:
